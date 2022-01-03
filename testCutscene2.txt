@@ -1,0 +1,22 @@
+<Story: The Heroes have successfully fought their way through a dangerous forest and have repelled the invader threat. Press any character key first, then enter to continue.>
+<Blades clashed. Spells were casted. The invaders fought mercilessly, yet the Heroes achieved victory in the end.>
+<The Heroes have returned to the King and Queen of the realm to give the good news>
+Fighter
+Your Majesty, we were successful in defeating the invading force stationed at the forest.
+Healer
+I pray that the innocents who lost their lives may find peace with the gods.
+Wizard
+They weren't much trouble, your Majesty.
+Rogue
+All's well that ends well. Even made some pocket money along the way.
+Queen: I am glad for your successful return. However, we have pressing matters to inform all of you.
+King: The invading force has not yet been defeated. They have been sighted in various locations.
+Queen: According to our spies, the invaders have taken refuge in a mining cave.
+King: Our coastline is still being overrun by the invaders.
+Queen: Finally, the invaders have built a stronghold to serve as their capital.
+King: Great heroes, we humbly request that you assist us more.
+Choice3 Fighter
+We shall go to the cave.
+We shall go to the coastline.
+We shall take on the invaders at the stronghold.
+King: Very well, I wish you success on your quest.

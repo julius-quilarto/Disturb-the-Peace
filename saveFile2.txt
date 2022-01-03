@@ -1,0 +1,9 @@
+John 45 100 34 15 36 15 25 22 
+Nathan 13 100 15 47 13 45 38 24 
+Ellie 14 100 14 32 15 22 41 21 
+Sarah 21 100 20 13 12 20 48 30 
+The Abandoned Mine
+0
+testLabyrinth2.txt
+Healing Potion
+Attack Potion

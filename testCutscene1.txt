@@ -1,0 +1,38 @@
+<Story: The king has gathered four of the finest heroes of the realm to aid his kingdom. Press any character key first, then enter to continue>
+King: Great heroes, I thank you for answering my call for help.
+Fighter
+Your Majesty, it is my greatest honor to fight for my homeland against these invaders.
+King: I am glad that such an excellent master of the art of war is present to defend this kingdom.
+Healer
+Do not fret, Your Majesty, the gods are with us and shall aid us in our plight.
+King: Ah I see, we have a person of faith. Your light magic shall aid us greatly.
+Wizard
+Yes, yes, light magic is wonderful and all that. But wait until you see the magic that I can perform.
+King: It is wonderful to see that a talented and powerful mage has heeded my call. Your magic will be a valuable asset in repelling the invader threat.
+Queen: Dear, should there not be a fourth hero who will be aiding us in our time of need?
+King: Why yes, my beloved Queen. You are indeed correct. The last hero should be arriving quite soon.
+Rogue
+BOO!!
+Fighter
+WHAT IN THE WORLD!!!
+Healer
+IN THE NAME OF THE GODS!!!
+Wizard
+BLAST IT WITH FIRE!!!
+King: Wait my friends. Do not be alarmed. This individual shall be aiding us.
+Rogue
+Hey, I'm just here for the monetary reward.
+Queen: In due time, hero. In due time. My king, shall you explain what is occurring in our fair kingdom.
+King: That I shall. My friends, I have called you here because we have been overrun with foreign invaders.
+Fighter
+I am very well aware of that Your Majesty. I presume our job will be to rout the enemy from our kingdom.
+Queen: Correct you are. We have been hearing distress messages from a village in the forest. We implore you to eliminate the invaders there.
+Fighter
+We will not fail, I promise you.
+Healer
+In the name of the gods, it shall be done.
+Wizard
+We will ensure that they will no longer be a threat.
+Rogue
+As long as I'm getting paid.
+King: Good luck my heroes. I pray for your success.

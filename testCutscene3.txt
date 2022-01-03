@@ -1,0 +1,34 @@
+<Story: The Heroes have successfully removed the invader threat from the mining caves. Press any character key first, then enter to continue.>
+<In a forsaken mine, the Heroes bravely traversed a perilous cave system and successfully combatted the invaders. They return with the good news to the King and Queen.>
+Fighter
+It was an arduous task. I almost fell off a crevice and lost my life. However, we successfully defeated the invaders.
+Wizard
+I have to say. That mine possessed some intriguing specimens that I would have loved to research more.
+Rogue
+You can say that again. So much shiny things to stuff my pockets.
+Healer
+By the gods, is the only thing you care about really money?
+Rogue
+You got that right. Didn't even need your gods to tell you that. What an accomplishment.
+Healer
+If I were not a holy person, I would strike you down right now.
+Rogue
+Bring it on. I can take you on.
+Queen: Now, now. This is not the time to be fighting amongst yourselves.
+Healer
+I apologize your Majesty.
+Rogue
+...
+Rogue
+Fine, I'm sorry as well. Truce.
+Healer
+Truce.
+King: Splendid. We still have important matters to discuss.
+Queen: Our coastline is still being attacked by the invaders. Not to mention there is that ominous fortress that belongs to the invaders.
+King: Yes, and while you did drive the invaders out of the caves, there is the possibility that they could come back.
+Queen: We would like to ask what you all what you would like to do? What is your decision?
+Choice3 Fighter
+We shall investigate the mine again
+We shall handle the invaders at the coast.
+We shall combat the invaders at their fortress.
+Queen: Very well heroes. I pray that you take care, and I pray for your swift and successful return.

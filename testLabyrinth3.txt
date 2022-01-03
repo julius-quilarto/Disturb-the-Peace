@@ -1,0 +1,15 @@
+The Endangered Isles
+testLabyrinth3.txt
+testCutscene4.txt
+0,The Harbor Dock,1,2,3
+1,The Wrecked Shipyard,0
+2,The Forsaken Treasure,0
+3,The Abandoned Ship,0,4,5,6,7
+4,The Isle of Bones,3,5,8
+5,The Isle of Famine,3,4,6
+6,The Isle of Beasts,3,5,7,9
+7,The Gargantuan Glacier,3,6
+8,The Ghost Ship,4,3
+9,The Wild Jungle,6,11
+10,The Uncharted Tundra,7,10
+11,The Stronghold of the Invaders,9

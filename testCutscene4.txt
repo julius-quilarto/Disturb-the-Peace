@@ -1,0 +1,32 @@
+<Story: The Heroes have defeated the invaders at the Isle of the Beasts. Press any character key first, then enter to continue.>
+<After a perilous journey on the seas, the Heroes have saved the coastline from the tyranny and abuse of the invaders. The Heroes return to the castle to give the good news>
+Fighter
+Your Majesty...
+Fighter
+We have returned...
+Fighter
+...*BLARGH*
+King: Is he in good health?
+Wizard
+Do not fret. He just got sea sick. That is all.
+Wizard
+There. There. I got you.
+Rogue
+Who would have thought that the mightiest fighter in the land had a weakness for the sea.
+Rogue
+HA HA HA HA HA!
+Healer
+Forgive me gods, but I cannot help but share the sentiment. That is quite funny. Heh heh.
+Wizard
+Any way, we found the invaders on an island and defeated them. What news do you have for us?
+King: Well, there is still the foreboding fortress that belongs to the invaders.
+Queen: In addition, an abandoned mine has been taken over by the invaders.
+King: Although you may have defeated the invaders at sea, there is a chance that they could return.
+King: So what do you say is the best choice of action?
+Choice3 Fighter
+Let us...go...to...the mine.
+Oh gods...we...choose...the coastline.
+...The fortress.
+King: Very well. I wish you nothing but success. Also, before you leave, we have some medicine for your sickness.
+Fighter
+Thank you. Will do.

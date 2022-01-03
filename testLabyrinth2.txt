@@ -1,0 +1,19 @@
+The Abandoned Mine
+testLabyrinth2.txt
+testCutscene3.txt
+0,The Entrance to the Mine,1,2
+1,The Outskirts of the Mine,0
+2,The Tunnel Shaft,0,3,4,5
+3,The Crystal Caves,2,6,7
+4,The Narrow Tunnel,2,11
+5,The Cave of Tenebrae,2,10,9
+6,The Cave of Rubies,3,8
+7,The Cave of Sapphires,3,8
+8,The Elevator,6,7,13
+9,The Path of Light,5,12
+10,The Dead End,5
+11,The Crevice,4,12
+12,The Lava Pits,11,13,9,14
+13,The Abandoned Work Shaft,8,12
+14,The Entrance to the Underground Marauder Camp,12,15
+15,The Underground Marauder Camp,14

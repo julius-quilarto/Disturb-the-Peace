@@ -1,0 +1,9 @@
+Mark 37 100 41 13 35 12 22 26 
+Sarah 11 100 11 32 15 39 30 24 
+John 11 100 13 42 12 24 47 27 
+Mary 26 100 27 14 11 23 34 47 
+The Forest of Doom
+0
+testLabyrinth.txt
+Healing Potion
+Attack Potion

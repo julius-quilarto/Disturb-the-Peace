@@ -1,0 +1,17 @@
+<Story: The Heroes have successfully sieged the fortress of the invaders. Press any character key first, then enter to continue.>
+<Blood was shed. Lives were lost. Sacrifices were made. But, at long last, the invaders were defeated once and for all. The Heroes travel back to the King and Queen to report>
+Fighter
+Your Majesty, splendid tidings are upon us. We have successfully repelled the invading force.
+King: Oh joyous day, this calls for celebration across the land.
+Fighter
+I agree. On this momentous day, we have finally repelled those accursed HUMANS from our lands.
+Wizard
+Yes, those HUMANS have been quite disruptive and dangerous for our kind.
+Healer
+I thank the gods that they sided with us MONSTERS and ensured our victory.
+Rogue
+Meh, I guess I'm happy that us MONSTERS get to stick around for a little bit longer.
+Queen: Come everybody! Let us commence the festivities and celebrate our victory. For the glory of MONSTERKIND!
+All The Monsters: Cheers!!!
+<And thus, peace was restored to the land of the monsters. The monsters lived happily ever after without fear of the invading humans ever again.>
+<THE END>

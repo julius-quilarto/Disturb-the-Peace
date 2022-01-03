@@ -1,0 +1,16 @@
+<Story: The king and queen of the realm are discussing important matters. Press any character key first, then enter to continue>
+King: Here is some dialogue
+Queen: Here is more dialogue
+Fighter
+I say this
+Healer
+I say this
+Wizard
+My dialogue
+Rogue
+This is weird
+Choice3 Fighter
+Option 1
+Option 2
+Option 3
+King: Ok

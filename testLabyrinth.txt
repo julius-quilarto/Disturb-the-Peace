@@ -1,0 +1,16 @@
+The Forest of Doom
+testLabyrinth.txt
+testCutscene2.txt
+0,The Clearing of Beginnings,1,2,3
+1,The Garden of Doom,0,2
+2,The Graveyard of the Forgotten,0,1,9
+3,The Winding Dirt Path,0,7,4
+4,The Grand Elder Tree,3,7,5,6
+5,The Scouting Camp of the Marauders,4
+6,The Hidden Cave Within the Grand Elder Tree,4
+7,The Field of Decaying Flowers,3,4,8
+8,The Abandoned Gate,7,11
+9,The Abandoned Gate,2,10
+10,The Village Remains,9,11
+11,The Village Center,8,10,12
+12,The Main Camp of the Marauders,11
